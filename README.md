@@ -43,7 +43,7 @@ Feel free to explore my repositories to see more of my work!
 - Email: [ishak.djilalibenfredj@gmail.com](mailto:ishak.djilalibenfredj@gmail.com)
 - Facebook: [Ishak Benfredj](https://facebook.com/profile.php?id=100012679398775)
 - Facebook Page: [Ishak Benfredj • MERN Developer ](https://facebook.com/IshakBenfredjdevloper)
-- Instagram: [@yourinstagramhandle](https://instagram.com/ishak_benfredj/)
+- Instagram: [@ishak_benfredj](https://instagram.com/ishak_benfredj/)
 - LinkedIn: [Ishak Djilali Benfredj](https://www.linkedin.com/in/ishak_benfredj/)
 - Phone: [+2135 41 79 02 05](tel:+213541790205)
 - Telegram: [@ishak_benfredj](https://web.telegram.org/k/#@ishak_benfredj)
