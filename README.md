@@ -1,7 +1,7 @@
 # Hi there, I'm Ishak DJILALI BENFREDJ 👋
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub followers](https://img.shields.io/github/followers/IshakBenfredj?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/IshakBenfredj?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 I Work As A MERN Stack Web and Mobile Developer And Content Creator . When You Work With Me, I Will Be Keen To Fulfill Your Requests. I Will Try To Provide Wonderful Additions To Your Project And Help You With Awesome Marketing Ideas For The Success Of Your Business. What Are You Waiting For ? Contact Me To Work
 ## 🛠️ Technologies & Tools
