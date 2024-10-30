@@ -20,6 +20,7 @@ I Work As A MERN Stack Web and Mobile Developer And Content Creator . When You W
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Shadcn/ui](https://img.shields.io/badge/-Shadcn-000000?logo=shadcnui&logoColor=white&style=flat)
 
 ## 🔧 Projects & Websites
 
